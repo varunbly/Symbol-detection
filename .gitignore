@@ -1,7 +1,5 @@
 dataset*/*
 *.mp4
-*.png
-*.jpeg
 generic_background/*
 mixed_dataset/*
 runs/classify/*
